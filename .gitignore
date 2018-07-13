@@ -1,0 +1,3 @@
+/data/*.json
+api_config.json
+pyenv/**
